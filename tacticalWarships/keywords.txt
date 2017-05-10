@@ -1,0 +1,8 @@
+two-dimensional
+single-player
+two-player
+gameplay-puzzle-game
+gameplay-turn-based
+multiplayer-competitive
+top-down-perspective
+mechanic-survival

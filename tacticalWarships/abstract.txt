@@ -1,0 +1,14 @@
+Group: Nameless
+Members: Andy Ly, Steven Yeng
+TA: Peter Mawhorter, Wednesday 7-10PM
+
+Game: Tactical Warships
+
+ABSTRACT:
+Tactical Warships is a modified version of the board game, Battleships. A couple differences in 
+Tactical Warships are the sonar feature and the ability to play defensive by moving your ships. 
+Since the ships in Battleships are stuck in one spot and when the enemy spots a ship, there is 
+no way for strategy to be involved. Tactical Warships changes the way the game plays by 
+providing the ability to change the board. In a player’s defensive phase, their ships are able to
+move and in the offensive phase, the player is able to send out a sonar to reveal nearby enemy locations providing more strategy.
+locations providing more strategy.
