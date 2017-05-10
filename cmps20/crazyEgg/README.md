@@ -1,3 +1,5 @@
+Note, doesn't seem to work on Chrome after all these years so use Mozilla
+
 melonJS boilerplate
 -------------------------------------------------------------------------------
 
